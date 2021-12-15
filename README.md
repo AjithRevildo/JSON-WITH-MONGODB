@@ -12,7 +12,7 @@ connect product.json in mongodb and perform some mongo db commands
 
 //database is created and shows sample in collection click the collection and click addfiles =import =json(from local)
 
-//product.json
+//product.json file attached in this repositories..
 
 
 //finally database data is created
